@@ -4,6 +4,6 @@ This is a random quote generator
 
 ## Features
 
-- Get Random Quote
-- Tweet Quote
+- Get a random quote
+- Tweet the quote
 - Link to quote author
